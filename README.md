@@ -13,6 +13,6 @@ E também, das **propriedades**, _z-indnex_ e _position_.
 
 ## Preview
 
-[Deploy]()
+[Deploy](https://form-mentoria-lb.netlify.app)
 
 <img src="https://user-images.githubusercontent.com/103150670/187206606-17ff000e-c957-4072-a613-0ef51acd43ae.png" />
