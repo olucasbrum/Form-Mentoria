@@ -4,7 +4,7 @@ Esse projeto tem como foco, o aprendizado sobre as **tags**: _fieldset, legend, 
 
 Já na parte do **CSS**, tive o aprendizado da **pseudo class** *:nth-child*, e do **pseudo element** _::before_.
 
-E também, das **propriedades**, _z-indnex_ e _position_.
+E também, das **propriedades**, _z-index_ e _position_.
 
 ## Stack Utilizada:
 
